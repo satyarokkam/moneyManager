@@ -1,0 +1,23 @@
+li {
+  list-style: none;
+}
+
+.list-transaction-container {
+  display: flex;
+  justify-content: center;
+  align-self: center;
+  border-top-style: none;
+}
+.title-space,
+.amount-space,
+.type-space {
+  width: 10vw;
+}
+.delete-pic {
+  height: 30px;
+  width: 30px;
+}
+.pic-button {
+  background-color: transparent;
+  border-style: none;
+}
